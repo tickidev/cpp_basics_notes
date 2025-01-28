@@ -2,7 +2,8 @@
 
 // Template function for logging
 template <typename T>
-void LOG(T x){ std::cout << x << std::endl;}
+void LOG(T x){ std::cout << x << std::endl;} // thats a template i just added for this code
+                                             // ill add about this in next days
 
 int main(){
 

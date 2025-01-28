@@ -9,6 +9,7 @@ typedef std::vector<std::pair<std::string, int>> pairlist_t;
 typedef std::string NAME_T;
 
 // Same
+// it's more common to use using for type aliases:
 using text_t = std::string;
 using age_t = int;
 
